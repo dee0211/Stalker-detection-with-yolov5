@@ -1,9 +1,7 @@
-time
-warnings
-cv2
-torch
-geocoder
+torch>=1.7.0
+torchvision>=0.8.1
 opencv-python
-numpy
-twilio
 deep-sort-realtime
+twilio
+geocoder
+
